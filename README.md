@@ -19,6 +19,8 @@
 
 
 **If You want to use PostgressSql or MySql as database**
+
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
