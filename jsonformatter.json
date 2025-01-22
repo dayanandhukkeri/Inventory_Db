@@ -14932,24 +14932,6 @@
         {
           "arcs": [
             [
-              -4,
-              12,
-              13,
-              14
-            ]
-          ],
-          "type": "Polygon",
-          "properties": {
-            "dt_code": "580",
-            "district": "Yadgir",
-            "st_code": "29",
-            "year": "2011_c",
-            "st_nm": "Karnataka"
-          }
-        },
-        {
-          "arcs": [
-            [
               -8,
               15,
               16,
